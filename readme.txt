@@ -5,4 +5,3 @@ Git tracks changes of files.
 Creating a new branch is quick & simple.
 This is a bug fix script
 issue-111
-THIS IS ISSUE111
